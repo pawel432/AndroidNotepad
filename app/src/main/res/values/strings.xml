@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">android_notepad</string>
+    <string name="notepad">Notepad</string>
+    <string name="addNote">+</string>
+    <string name="title">Title</string>
+    <string name="Save">Save</string>
+    <string name="Edit">Edit</string>
+    <string name="Delete">Delete</string>
+    <string name="previous">Back</string>
+</resources>
